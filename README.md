@@ -1,5 +1,3 @@
-<img width="3840" height="1500" alt="6327211-2793091729" src="https://github.com/user-attachments/assets/8d45e3cf-46ee-49e9-ae0d-b2c05adbcf94" />
-
 # 👋 Hi, I'm Mahdi Habibi Nazarlu
 
 🎯 **Full-Stack Developer | React & Django Specialist**  
