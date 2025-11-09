@@ -1,16 +1,97 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahdi Habibi Nazarlu
 
-<!--
-**Mahdi-Habibi/Mahdi-Habibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Full-Stack Developer | React & Django Specialist**  
+📍 Tabriz, Iran (UTC+3:30)  
+📧 [info.mahdihabibi@gmail.com](mailto:info.mahdihabibi@gmail.com)  
+🌐 [GitHub](#) • [LinkedIn](#)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I'm a **results-driven Full-Stack Developer** passionate about building scalable, user-friendly web applications using **React** and **Django**.  
+I enjoy crafting clean, maintainable code, optimizing UI/UX, and mentoring upcoming developers to write better software.  
+Currently, I’m teaching **Python and Full-Stack Web Development** while working on personal projects involving **REST APIs** and **modern JavaScript frameworks**.
+
+---
+
+## ⚙️ Tech Stack
+
+**Frontend:**  
+React.js • JavaScript (ES6+) • HTML5 • CSS3 • Bootstrap • Tailwind • Sass • Figma  
+
+**Backend:**  
+Django • Python • REST API • PHP  
+
+**Database:**  
+MongoDB • MySQL • SQLite  
+
+**Tools & Workflow:**  
+Git/GitHub • Docker (Basic) • Agile/Scrum • Trello • Notion  
+
+---
+
+## 💼 Professional Experience
+
+**🧑‍🏫 Full-Stack Development & Python Instructor — Tabriz Technical Complex (Apr 2025 – Present)**  
+- Teaching **React, Django, and full-stack concepts** to 50+ students.  
+- Designed project-based curricula focusing on real-world development workflows.  
+- Mentored students in Git/GitHub collaboration and deployment best practices.  
+- Maintained an **average satisfaction score of 4.8/5**.
+
+**💻 PHP Developer — Petco (Pump & Turbine of Tabriz) (Jun 2023 – Mar 2024)**  
+- Developed internal and public web apps using **PHP, JavaScript, MySQL**.  
+- Improved UI responsiveness by **30%** through asynchronous front-end optimization.  
+- Collaborated in Agile teams to enhance workflow and version control.
+
+**🎓 English Instructor — C+C Academy (Dec 2022 – Nov 2023)**  
+- Trained 100+ students in academic writing, communication, and presentation skills.  
+- Created custom materials integrating digital learning tools.
+
+**🎨 Front-End Developer — Loris Studio (Sep 2020 – Sep 2021)**  
+- Built responsive web interfaces using **Bootstrap and jQuery**.  
+- Enhanced cross-browser compatibility and overall UX.
+
+---
+
+## 🚀 Projects
+
+**🧰 Job-Seeking Platform (PHP, NoSQL, Bootstrap)**  
+A full-stack job portal with authentication, CRUD operations, and responsive design.  
+Integrated **user management** and optimized **NoSQL database** structure.  
+🔗 [View on GitHub](#)
+
+**📘 Book Translation Project**  
+Translated advanced **Machine Learning & Deep Learning** academic resources into Persian to aid local researchers.  
+
+---
+
+## 🎓 Education
+
+- **M.Sc. in Computer Architecture** — Shahid Beheshti University (2025 – Ongoing)  
+- **B.Sc. in Computer Engineering** — Tabriz University (2019 – 2024)
+
+---
+
+## 📜 Certifications
+
+- Django (Python Framework), *Tabriz Technical Complex* — *Expected Oct 2025*  
+- Python Programming, *Tabriz Technical Complex* — *Jul 2025*  
+- Advanced English Course, *Goldis Institution* — *2017*
+
+---
+
+## 🌍 Languages
+
+Persian (Native) • Turkish (Fluent) • English (Advanced) • Spanish (Intermediate)
+
+---
+
+## 📊 GitHub Stats
+
+![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+---
+
+⭐ **“Clean code and scalable design are not goals — they’re habits.”**  
