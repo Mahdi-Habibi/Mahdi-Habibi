@@ -68,8 +68,8 @@ Translated advanced **Machine Learning & Deep Learning** academic resources into
 
 ## 🎓 Education
 
-- **M.Sc. in Computer Architecture** — Shahid Beheshti University (2025 – Ongoing)  
-- **B.Sc. in Computer Engineering** — Tabriz University (2019 – 2024)
+- **M.Sc. in Computer Architecture** — Shahid Beheshti University 
+- **B.Sc. in Computer Engineering** — Tabriz University
 
 ---
 
