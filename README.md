@@ -34,7 +34,7 @@ I’m a results-driven developer passionate about crafting scalable web applicat
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" alt="coding animation"/>
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/coding.gif" width="200" alt="coding animation"/>
 </p>
 
 ---
@@ -59,7 +59,7 @@ I’m a results-driven developer passionate about crafting scalable web applicat
 I love mentoring new developers and continuously learning — currently improving my Spanish 🇪🇸.  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="250" alt="learning animation"/>
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/learning.gif" width="250" alt="learning animation"/>
 </p>
 
 ---
@@ -105,6 +105,3 @@ I love mentoring new developers and continuously learning — currently improvin
   <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:info.mahdihabibi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
----
-
