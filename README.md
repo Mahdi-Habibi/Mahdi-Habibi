@@ -3,7 +3,7 @@
 🎯 **Full-Stack Developer | React & Django Specialist**  
 📍 Tabriz, Iran (UTC+3:30)  
 📧 [info.mahdihabibi@gmail.com](mailto:info.mahdihabibi@gmail.com)  
-🌐 [GitHub](#) • [LinkedIn](#)
+🌐 [GitHub](https://github.com/Mahdi-Habibi) • [LinkedIn](https://www.linkedin.com/in/mahdi-habibi-developer/)
 
 ---
 
