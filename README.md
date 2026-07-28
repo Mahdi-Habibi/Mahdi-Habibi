@@ -1,6 +1,9 @@
 <!--
   Profile README — Mahdi Habibi
-  Clean, intentional, and easy to maintain.
+  Powered by popular open-source profile tools:
+  readme-typing-svg · skillicons · github-readme-stats · streak-stats
+  github-profile-summary-cards · github-profile-trophy
+  github-readme-activity-graph · Platane/snk
 -->
 
 <p align="center">
@@ -10,15 +13,19 @@
 <h1 align="center">Mahdi Habibi</h1>
 
 <p align="center">
-  <strong>Full-stack engineer</strong> building thoughtful web products with <strong>React</strong> &amp; <strong>Django</strong>.<br/>
-  Exploring AI systems, intelligent automation, and clean architecture.
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=C4969E&center=true&vCenter=true&width=680&lines=Full-stack+engineer+%7C+React+%26+Django;Building+AI-assisted+products+%26+automation;Clean+architecture+%C2%B7+thoughtful+interfaces;Master%27s+student+%40+Shahid+Beheshti+University"
+      alt="Typing intro"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://mahdi-habibi.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0c0e12?style=flat-square&logo=vercel&logoColor=c4969e" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/mahdi-habibi-developer"><img src="https://img.shields.io/badge/LinkedIn-0c0e12?style=flat-square&logo=linkedin&logoColor=c4969e" alt="LinkedIn" /></a>
-  <a href="mailto:info.mahdihabibi@gmail.com"><img src="https://img.shields.io/badge/Email-0c0e12?style=flat-square&logo=gmail&logoColor=c4969e" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Open_to_work-1a1418?style=flat-square&labelColor=0c0e12&color=8b4a5c" alt="Open to work" />
+  <a href="https://mahdi-habibi.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0c0e12?style=for-the-badge&logo=vercel&logoColor=c4969e" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/mahdi-habibi-developer"><img src="https://img.shields.io/badge/LinkedIn-0c0e12?style=for-the-badge&logo=linkedin&logoColor=c4969e" alt="LinkedIn" /></a>
+  <a href="mailto:info.mahdihabibi@gmail.com"><img src="https://img.shields.io/badge/Email-0c0e12?style=for-the-badge&logo=gmail&logoColor=c4969e" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Open_to_work-1a1418?style=for-the-badge&labelColor=0c0e12&color=8b4a5c" alt="Open to work" />
 </p>
 
 ---
@@ -27,73 +34,84 @@
 
 I design and ship full-stack applications end to end — from API design and data models to interfaces people actually enjoy using. Currently focused on AI-assisted products and automation, while deepening computer architecture as a Master's student at **Shahid Beheshti University**.
 
-**What I care about**
-- Clear systems over clever ones
-- Interfaces that feel calm and intentional
-- Shipping work that holds up in production
+```text
+┌─ Focus ──────────────────────────────────────────────────────────┐
+│  Clear systems over clever ones                                  │
+│  Interfaces that feel calm and intentional                       │
+│  Shipping work that holds up in production                       │
+└──────────────────────────────────────────────────────────────────┘
+```
 
-**Open to**
-- Collaboration on AI-driven apps, automation tools, and serious full-stack builds
-- Mentorship, pairing, and product-minded engineering conversations
+**Open to** collaboration on AI-driven apps, automation tools, and serious full-stack builds — plus mentorship, pairing, and product-minded engineering conversations.
 
 ---
 
 ### Stack
 
-<details open>
-<summary><strong>Languages & frameworks</strong></summary>
-<br/>
-
-![TypeScript](https://img.shields.io/badge/TypeScript-0c0e12?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0c0e12?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-0c0e12?style=flat-square&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-0c0e12?style=flat-square&logo=cplusplus&logoColor=00599C)
-![React](https://img.shields.io/badge/React-0c0e12?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0c0e12?style=flat-square&logo=nextdotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-0c0e12?style=flat-square&logo=django&logoColor=092E20)
-![NestJS](https://img.shields.io/badge/NestJS-0c0e12?style=flat-square&logo=nestjs&logoColor=E0234E)
-![Node.js](https://img.shields.io/badge/Node.js-0c0e12?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0c0e12?style=flat-square&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0c0e12?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
-
-</details>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=ts,js,python,cpp,react,nextjs,django,nestjs,nodejs,express,tailwind,postgres,mongodb,mysql,docker,git,vercel,figma&perline=9"
+      alt="Tech stack"
+    />
+  </a>
+</p>
 
 <details>
-<summary><strong>Data, tooling & design</strong></summary>
+<summary><strong>Also comfortable with</strong></summary>
 <br/>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0c0e12?style=flat-square&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0c0e12?style=flat-square&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-0c0e12?style=flat-square&logo=mysql&logoColor=4479A1)
-![Docker](https://img.shields.io/badge/Docker-0c0e12?style=flat-square&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-0c0e12?style=flat-square&logo=git&logoColor=F05032)
-![Vercel](https://img.shields.io/badge/Vercel-0c0e12?style=flat-square&logo=vercel&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-0c0e12?style=flat-square&logo=numpy&logoColor=013243)
 ![Pandas](https://img.shields.io/badge/Pandas-0c0e12?style=flat-square&logo=pandas&logoColor=150458)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0c0e12?style=flat-square&logo=scikitlearn&logoColor=F7931E)
-![Figma](https://img.shields.io/badge/Figma-0c0e12?style=flat-square&logo=figma&logoColor=F24E1E)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-0c0e12?style=flat-square&logo=socketdotio&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-0c0e12?style=flat-square&logo=prisma&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-0c0e12?style=flat-square&logo=eclipsemosquitto&logoColor=white)
 
 </details>
 
 ---
 
-### Selected work
+### Featured projects
 
-| Project | Focus | Links |
+<p align="center">
+  <a href="https://github.com/Mahdi-Habibi/pathwise">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahdi-Habibi&repo=pathwise&theme=transparent&hide_border=true&bg_color=00000000&title_color=c4969e&icon_color=c4969e&text_color=c9cdd4&border_radius=8" alt="Pathwise" />
+  </a>
+  <a href="https://github.com/Mahdi-Habibi/pocket_crypto">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahdi-Habibi&repo=pocket_crypto&theme=transparent&hide_border=true&bg_color=00000000&title_color=c4969e&icon_color=c4969e&text_color=c9cdd4&border_radius=8" alt="Pocket Crypto" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Mahdi-Habibi/task-management-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahdi-Habibi&repo=task-management-platform&theme=transparent&hide_border=true&bg_color=00000000&title_color=c4969e&icon_color=c4969e&text_color=c9cdd4&border_radius=8" alt="Task Platform" />
+  </a>
+  <a href="https://github.com/Mahdi-Habibi/smart-home-iot-dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahdi-Habibi&repo=smart-home-iot-dashboard&theme=transparent&hide_border=true&bg_color=00000000&title_color=c4969e&icon_color=c4969e&text_color=c9cdd4&border_radius=8" alt="Smart Home IoT" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Mahdi-Habibi/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahdi-Habibi&repo=portfolio&theme=transparent&hide_border=true&bg_color=00000000&title_color=c4969e&icon_color=c4969e&text_color=c9cdd4&border_radius=8" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/Mahdi-Habibi/Multi-Tenant--Project--Management--SaaS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahdi-Habibi&repo=Multi-Tenant--Project--Management--SaaS&theme=transparent&hide_border=true&bg_color=00000000&title_color=c4969e&icon_color=c4969e&text_color=c9cdd4&border_radius=8" alt="Multi-Tenant SaaS" />
+  </a>
+</p>
+
+| Project | Focus | Live |
 | :--- | :--- | :--- |
-| **Pathwise** | Adaptive learning platform — Next.js, NestJS, Prisma | [Repo](https://github.com/Mahdi-Habibi/pathwise) · [Live](https://mahdi-habibi.github.io/pathwise/) |
-| **Pocket Crypto** | Telegram bot for live currency & crypto markets | [Repo](https://github.com/Mahdi-Habibi/pocket_crypto) · [Live](https://pocketcrypto.vercel.app) |
-| **Task Platform** | Real-time task management with JWT & Socket.IO | [Repo](https://github.com/Mahdi-Habibi/task-management-platform) |
-| **Smart Home IoT** | MQTT dashboard for sensors & device control | [Repo](https://github.com/Mahdi-Habibi/smart-home-iot-dashboard) |
-| **Portfolio** | Personal site — React & Django specialist | [Repo](https://github.com/Mahdi-Habibi/portfolio) · [Live](https://mahdi-habibi.github.io/portfolio/) |
+| **[Pathwise](https://github.com/Mahdi-Habibi/pathwise)** | Adaptive learning — Next.js, NestJS, Prisma | [Demo](https://mahdi-habibi.github.io/pathwise/) |
+| **[Pocket Crypto](https://github.com/Mahdi-Habibi/pocket_crypto)** | Telegram bot for live currency & crypto | [App](https://pocketcrypto.vercel.app) |
+| **[Portfolio](https://github.com/Mahdi-Habibi/portfolio)** | Personal site — React & Django | [Site](https://mahdi-habibi.github.io/portfolio/) |
 
 ---
 
-### GitHub
+### GitHub analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mahdi-Habibi&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=c4969e&icon_color=c4969e&text_color=c9cdd4&bg_color=00000000" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Habibi&layout=compact&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=c4969e&text_color=c9cdd4&bg_color=00000000" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mahdi-Habibi&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=c4969e&icon_color=c4969e&text_color=c9cdd4&bg_color=00000000&ring_color=c4969e" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Habibi&layout=compact&langs_count=8&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=c4969e&text_color=c9cdd4&bg_color=00000000" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -101,7 +119,29 @@ I design and ship full-stack applications end to end — from API design and dat
 </p>
 
 <p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahdi-Habibi&theme=transparent" alt="Summary stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mahdi-Habibi&theme=transparent&utcOffset=3.5" alt="Productive time (UTC+3:30)" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahdi-Habibi&bg_color=00000000&color=c9cdd4&line=c4969e&point=c4969e&area=true&hide_border=true&custom_title=Contribution%20activity" alt="Contribution activity graph" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mahdi-Habibi&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
+</p>
+
+---
+
+### Contribution snake
+
+<!-- Generated by Platane/snk · updates via GitHub Actions → output branch -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahdi-Habibi/Mahdi-Habibi/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahdi-Habibi/Mahdi-Habibi/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mahdi-Habibi/Mahdi-Habibi/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -111,4 +151,8 @@ I design and ship full-stack applications end to end — from API design and dat
     Building in public · Based in Tehran ·
     <a href="mailto:info.mahdihabibi@gmail.com">Say hello</a>
   </sub>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mahdi-Habibi&style=flat-square&color=c4969e" alt="Profile views" />
 </p>
