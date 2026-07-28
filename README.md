@@ -2,7 +2,8 @@
   Profile README — Mahdi Habibi
   Powered by popular open-source profile tools:
   readme-typing-svg · skillicons · github-readme-stats · streak-stats
-  github-profile-trophy · github-readme-activity-graph · Platane/snk
+  github-profile-summary-cards · github-profile-trophy
+  github-readme-activity-graph · Platane/snk
 -->
 
 <p align="center">
