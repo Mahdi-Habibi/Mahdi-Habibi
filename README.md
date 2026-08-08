@@ -6,22 +6,22 @@
 -->
 
 <p align="center">
-  <img src="./github-header-banner.png" alt="Mahdi Habibi — Full-stack engineer" width="100%" />
+  <img src="./Black and White Modern Business Contact Banner.png" alt="Mahdi Habibi — Full-stack engineer" width="100%" />
 </p>
 
-<h1 align="center">Mahdi Habibi</h1>
+<!-- <h1 align="center">Mahdi Habibi</h1> -->
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=C4969E&center=true&vCenter=true&width=620&height=28&lines=Full-stack+engineer+%7C+React+%26+Django;Building+AI-assisted+products+%26+automation;Clean+architecture+%C2%B7+thoughtful+interfaces;Master%27s+student+%40+Shahid+Beheshti+University"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=EEEEEE&center=true&vCenter=true&width=620&height=28&lines=Full-stack+engineer+%7C+React+%26+Django;Building+AI-assisted+products+%26+automation;Clean+architecture+%C2%B7+thoughtful+interfaces;Master%27s+student+%40+Shahid+Beheshti+University"
       alt="Typing intro"
     />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://mahdi-habibi.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0c0e12?style=flat-square&logo=vercel&logoColor=c4969e" alt="Portfolio" /></a>
+  <a href="https://mahdihabibi.com"><img src="https://img.shields.io/badge/Portfolio-0c0e12?style=flat-square&logo=vercel&logoColor=c4969e" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/mahdi-habibi-developer"><img src="https://img.shields.io/badge/LinkedIn-0c0e12?style=flat-square&logo=linkedin&logoColor=c4969e" alt="LinkedIn" /></a>
   <a href="mailto:info.mahdihabibi@gmail.com"><img src="https://img.shields.io/badge/Email-0c0e12?style=flat-square&logo=gmail&logoColor=c4969e" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Open_to_work-1a1418?style=flat-square&labelColor=0c0e12&color=8b4a5c" alt="Open to work" />
