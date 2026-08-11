@@ -48,9 +48,15 @@ I design and ship full-stack web products end to end — APIs, data models, and 
 
 ## GitHub stats
 
-<p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mahdi-Habibi&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=c4969e&icon_color=c4969e&text_color=c9cdd4&bg_color=00000000&ring_color=c4969e" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mahdi-Habibi&layout=compact&langs_count=8&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=c4969e&text_color=c9cdd4&bg_color=00000000" alt="Top languages" height="165" />
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Mahdi-Habibi&show_icons=true&theme=radical"
+    width="49%"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mahdi-Habibi&layout=compact&theme=radical"
+    width="49%"
+  />
 </p>
 
 ---
