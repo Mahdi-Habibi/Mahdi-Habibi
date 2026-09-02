@@ -1,64 +1,170 @@
 # Mahdi Habibi
 
-**Full-Stack Engineer** · React · Next.js · Django · NestJS · TypeScript · Python
+### Full-Stack Engineer | TypeScript | Python | React | Next.js | NestJS | Django
 
-I design and ship full-stack web products end to end — APIs, data models, and interfaces that hold up in production. Currently Website Technical Manager at Padideh Shamim Ghaem, JavaScript & Python instructor at Tabriz Technical Complex, and M.Sc. student in Computer Systems Architecture at Shahid Beheshti University.
+Building scalable web applications, SaaS platforms, realtime systems, and developer-focused products.
 
-**Open to** full-stack / platform engineering roles and collaboration on SaaS, learning products, and automation.
-
-<p>
-  <a href="https://www.mahdihabibi.com"><img src="https://img.shields.io/badge/Portfolio-0c0e12?style=flat-square&logo=vercel&logoColor=c4969e" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/mahdi-habibi-developer"><img src="https://img.shields.io/badge/LinkedIn-0c0e12?style=flat-square&logo=linkedin&logoColor=c4969e" alt="LinkedIn" /></a>
-  <a href="mailto:info.mahdihabibi@gmail.com"><img src="https://img.shields.io/badge/Email-0c0e12?style=flat-square&logo=gmail&logoColor=c4969e" alt="Email" /></a>
+<p align="left">
+  <a href="https://github.com/Mahdi-Habibi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/mahdi-habibi-developer/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.mahdihabibi.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
 </p>
 
 ---
 
-## Core stack
+## About
 
-| Layer | Technologies |
-| :--- | :--- |
-| Languages | TypeScript, JavaScript, Python |
-| Frontend | React, Next.js, Tailwind CSS |
-| Backend | NestJS, Django / DRF, Node.js, Express |
-| Data | PostgreSQL, Prisma, MongoDB |
-| Realtime & infra | Socket.IO, MQTT, Docker, JWT, Vercel |
+I'm a Full-Stack Engineer focused on designing and building modern, maintainable software.
+
+My work spans frontend applications, backend APIs, SaaS architecture, realtime systems, databases, and IoT integrations.
+
+I enjoy turning complex requirements into simple, reliable products.
 
 ---
 
-## Featured projects
+## Tech Stack
 
-| Project | Problem → approach | Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **[Kia Academy](https://github.com/Mahdi-Habibi/kia-academy)** | Adaptive learning for Iranian learners: phone OTP onboarding, goal assessment, readiness tests, personalized roadmaps, and lesson playback | Next.js 15, NestJS 11, Prisma, PostgreSQL | [Live demo](https://mahdi-habibi.github.io/kia-academy/) |
-| **[Multi-Tenant Project SaaS](https://github.com/Mahdi-Habibi/Multi-Tenant--Project--Management--SaaS)** | Workspace tenancy with RBAC, invites, projects/tasks, and activity logs for isolated team workspaces | Django, DRF, Next.js, PostgreSQL, Docker | [Repository](https://github.com/Mahdi-Habibi/Multi-Tenant--Project--Management--SaaS) |
-| **[Pocket Crypto](https://github.com/Mahdi-Habibi/pocket_crypto)** | On-demand currency and crypto quotes plus scheduled updates via a Telegram bot | Python, Telegram Bot API, APScheduler | [Repository](https://github.com/Mahdi-Habibi/pocket_crypto) |
-| **[Smart Home IoT Dashboard](https://github.com/Mahdi-Habibi/smart-home-iot-dashboard)** | Sensor monitoring and device control over MQTT with a charted operator UI | React, Node.js, Express, MongoDB, MQTT | [Repository](https://github.com/Mahdi-Habibi/smart-home-iot-dashboard) |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,react,nextjs,tailwind" alt="TypeScript JavaScript Python React Next.js Tailwind CSS">
+</p>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,django,express,postgresql,mongodb,prisma" alt="Node.js NestJS Django Express PostgreSQL MongoDB Prisma">
+</p>
 
-## Focus areas
-
-- Full-stack product delivery with TypeScript/Python and secure REST APIs
-- Multi-tenant and RBAC-aware backend design
-- Realtime collaboration and IoT telemetry (Socket.IO, MQTT)
-- Web performance, technical SEO, and production platform operations
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,aws,redis,rabbitmq" alt="Docker Git GitHub Linux Vercel AWS Redis RabbitMQ">
+</p>
 
 ---
 
-## GitHub stats
+## What I Build
+
+| Area             | Focus                                                                  |
+| ---------------- | ---------------------------------------------------------------------- |
+| SaaS             | Multi-tenant applications, RBAC, workspaces, billing and collaboration |
+| Web Applications | React, Next.js, TypeScript and modern UI architectures                 |
+| Backend Systems  | REST APIs, authentication, business logic and scalable services        |
+| Realtime Systems | WebSockets, Socket.IO and event-driven architectures                   |
+| IoT              | MQTT, device communication, monitoring and dashboards                  |
+| Automation       | Bots, scheduled jobs, integrations and background workers              |
+
+---
+
+## Selected Projects
+
+### Kia Academy
+
+Adaptive learning platform designed for personalized learning experiences.
+
+**Stack:** `Next.js` `NestJS` `Prisma` `PostgreSQL`
+
+---
+
+### Multi-Tenant SaaS
+
+Workspace-based project management platform with tenant isolation, RBAC, invitations, projects, tasks and activity tracking.
+
+**Stack:** `Django` `DRF` `Next.js` `PostgreSQL` `Docker`
+
+---
+
+### Smart Home IoT
+
+Realtime IoT dashboard for monitoring sensors and controlling connected devices.
+
+**Stack:** `React` `Node.js` `MongoDB` `MQTT`
+
+---
+
+### Pocket Crypto
+
+Telegram-based cryptocurrency and currency monitoring system with scheduled notifications.
+
+**Stack:** `Python` `Telegram Bot API` `APScheduler`
+
+---
+
+## Engineering Interests
+
+```text
+Scalable SaaS Architecture
+Distributed Systems
+Realtime Applications
+Backend Performance
+Database Design
+Cloud Infrastructure
+Developer Experience
+AI-Assisted Development
+```
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <a href="https://github.com/Mahdi-Habibi">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=Mahdi-Habibi&show_icons=true&hide_border=true&rank_icon=github"
+      alt="GitHub Statistics"
+    />
+  </a>
+  <a href="https://github.com/Mahdi-Habibi">
+    <img
+      height="180"
+      src="https://streak-stats.demolab.com/?user=Mahdi-Habibi&hide_border=true"
+      alt="GitHub Contribution Streak"
+    />
+  </a>
+</p>
+
+---
+
+## GitHub Achievements
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=Mahdi-Habibi&show_icons=true&theme=radical"
-    width="49%"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mahdi-Habibi&layout=compact&theme=radical"
-    width="49%"
+    src="https://github-profile-trophy.vercel.app/?username=Mahdi-Habibi&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6"
+    alt="GitHub Profile Trophies"
   />
 </p>
 
 ---
 
-Based in Tabriz, Iran · [Portfolio](https://www.mahdihabibi.com) · [LinkedIn](https://www.linkedin.com/in/mahdi-habibi-developer) · [Email](mailto:info.mahdihabibi@gmail.com)
+## Profile
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Mahdi-Habibi&style=for-the-badge&label=PROFILE+VIEWS"
+    alt="Profile Views"
+  />
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://github.com/Mahdi-Habibi">
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mahdi-habibi-developer/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.mahdihabibi.com">
+    <img src="https://skillicons.dev/icons?i=vercel" width="45" alt="Portfolio">
+  </a>
+</p>
+
+<p align="center">
+  <i>Designing systems. Building products. Shipping software.</i>
+</p>
